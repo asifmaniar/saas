@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+/week1
 
 # debug
 npm-debug.log*
